@@ -5,9 +5,17 @@
 
 Here I implemented a Simple Music Player using Java and OOPs.
 
-## High Level Requirements
+1. By Pressing 1 you can play NEXT SONG.
 
-## Low level Requirements
+2.By Pressing 2 you can play PREVIOUS SONG.
+
+3.By Pressing 3 you can REPLAY.
+
+4.By Pressing 4 you can get LIST OF ALL AVAILABLE SONG.
+
+5.By Pressing 6 you can DELETE CURRENT SONG.
+
+6.By pressing 0 you can Exit from the music player.
 
 
 ## Features
