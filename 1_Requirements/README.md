@@ -2,7 +2,6 @@
 
 ## Description of Project
 
-
 Here I implemented a Simple Music Player using Java and OOPs.
 
 1.By Pressing 1 you can play NEXT SONG.
@@ -17,26 +16,22 @@ Here I implemented a Simple Music Player using Java and OOPs.
 
 6.By pressing 0 you can Exit from the music player.
 
-
-## Features
+## Features 
 
 - Strength
- It is user friendly and easy to play.
+It is user friendly and easy to play.
 - Weakness
 There is no too much Options in Songs. 
 - Opportunities
 User can Change Song and can enjoy.
 - threat
+Don't use any other option that is given.
 
 
 
 ## 4W's and 1H
 ## WHO
 Any user can play easily and enjoy.
-
-
-
-
 ## WHAT
 Inspired by the Music Player. This Music PLayer is for Enjoyment.
 ## When
