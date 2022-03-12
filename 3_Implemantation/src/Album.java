@@ -4,8 +4,8 @@ import java.util.ArrayList;
 import java.util.LinkedList;
 
 public class Album {
-    private String name2;
-    private String artist2;
+   String name2;
+    String artist2;
     private ArrayList<Song> songs;
 
     public Album(String name, String artist) {
@@ -13,9 +13,7 @@ public class Album {
         this.artist2 = artist;
         this.songs = new ArrayList<Song>();
     }
-    public Album(){
-
-    }
+    
 
     public Song findSong(String title){
 
