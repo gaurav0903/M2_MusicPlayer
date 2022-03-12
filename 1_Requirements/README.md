@@ -1,11 +1,11 @@
-
+#Requirements
 
 ## Description of Project
 
 
 Here I implemented a Simple Music Player using Java and OOPs.
 
-1. By Pressing 1 you can play NEXT SONG.
+1.By Pressing 1 you can play NEXT SONG.
 
 2.By Pressing 2 you can play PREVIOUS SONG.
 
