@@ -1,27 +1,27 @@
 
 public class Song {
-    private String title;
-    private double duration;
+  String title1;
+  double duration1;
 
     public Song(String title, double duration) {
-        this.title = title;
-        this.duration = duration;
+        this.title1 = title;
+        this.duration1 = duration;
     }
    
 
     public String getTitle() {
-        return title;
+        return title1;
     }
 
     public double getDuration() {
-        return duration;
+        return duration1;
     }
 
     @Override
     public String toString() {
         return "Song{" +
-                "title='" + title + '\'' +
-                ", duration=" + duration +
+                "title='" + title1 + '\'' +
+                ", duration=" + duration1 +
                 '}';
     }
 }
