@@ -18,16 +18,16 @@ Here I implemented a Simple Music Player using Java and OOPs.
 
 ## Features 
 
-- Strength  
+-  Strength  
 It is user friendly and easy to play.
 
-- Weakness  
+-  Weakness  
 There is no too much Options in Songs.
 
-- Opportunities  
+-  Opportunities  
 User can Change Song and can enjoy.
 
-- threat  
+-  threat  
 Don't use any other option that is given.
 
 ## 4W's and 1H
