@@ -6,7 +6,7 @@ import java.util.LinkedList;
 public class Album {
    String name2;
     String artist2;
-    private ArrayList<Song> songs;
+     ArrayList<Song> songs;
 
     public Album(String name, String artist) {
         this.name2 = name;
