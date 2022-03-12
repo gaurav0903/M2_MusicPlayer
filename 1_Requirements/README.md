@@ -27,8 +27,6 @@ User can Change Song and can enjoy.
 - threat
 Don't use any other option that is given.
 
-
-
 ## 4W's and 1H
 ## WHO
 Any user can play easily and enjoy.
